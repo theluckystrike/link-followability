@@ -1,0 +1,9 @@
+name: link_followability
+version: 0.1.0
+description: |
+  Read rel tokens on every anchor, meta robots and X-Robots-Tag, and report
+  whether each link is followed and whether the page is indexable.
+authors:
+  - theluckystrike
+crystal: ">= 1.0.0"
+license: MIT
